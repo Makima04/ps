@@ -1,0 +1,51 @@
+{
+  "id" : "5477FF98-95FA-41F2-930C-9A55E0C955D9",
+  "lips" : {
+    "appearance" : {
+      "lightness" : 55.49982751557748,
+      "redGreen" : 26.00343149626827,
+      "skinLightness" : 74.58451217328921,
+      "yellowBlue" : 12.31278862943962
+    },
+    "chromaRatio" : 2.2547237817905756,
+    "hueDifference" : -0.15291732844651357,
+    "lightnessDifference" : -19.084684657711733,
+    "reliability" : 0.7133061289787292
+  },
+  "maxColorChange" : 8,
+  "maxLightnessChange" : 12,
+  "name" : "光月大青蛙 · 1号自然浅粉",
+  "preserveContrast" : true,
+  "protectCheeks" : true,
+  "reference" : {
+    "clippedFraction" : 0,
+    "faceWidthPixels" : 114.12898063659668,
+    "lightness" : {
+      "median" : 74.58451217328921,
+      "p10" : 52.62382844564315,
+      "p25" : 65.33793599045505,
+      "p75" : 78.90854009889631,
+      "p90" : 81.70724505990468
+    },
+    "redGreen" : {
+      "median" : 10.566476465558944,
+      "p10" : 7.873218351637024,
+      "p25" : 9.023983411024616,
+      "p75" : 12.686125447417512,
+      "p90" : 15.634010003749587
+    },
+    "sampleCount" : 7424,
+    "yellowBlue" : {
+      "median" : 7.153872260370342,
+      "p10" : 5.3315741132462735,
+      "p25" : 6.6279824441927815,
+      "p75" : 8.5416160310275,
+      "p90" : 10.376259320990375
+    }
+  },
+  "scene" : "未分组",
+  "targetLightness" : 74.58451217328921,
+  "targetRed" : 10.566476465558944,
+  "targetYellow" : 7.153872260370342,
+  "version" : 1
+}
